@@ -1,1 +1,1 @@
-# CS-320-Journal
+By using J-Unit testing, I was able to ensure the code was “technically sound.” J-Unit testing allows you to break down the code into small fragments and test each piece. In return, this allows you to make sure that all your code is working properly.
